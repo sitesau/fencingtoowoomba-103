@@ -1,0 +1,22 @@
+{
+  "wheel_id": 464,
+  "structure": "umbrella",
+  "slug": "fencingtoowoomba-103",
+  "project": "fencing-contractors-toowoomba-signs-you-need-45504f47690259e681",
+  "parent_t1_ref": "fencingtoowoomba-151",
+  "node_role": "feeder",
+  "money_target": "fencingtoowoomba.net.au",
+  "primary_kw": "fencing contractors toowoomba signs you need",
+  "intended_url": "https://aumedia.neocities.org/fencing-contractors-toowoomba-signs-you-need-45504f47690259e681/",
+  "tier": "T2",
+  "writeback_nonce": "022838e6f5709d85",
+  "links": [
+    {
+      "target_url": "http://fencing-contractors-toowoomba-questions-to-ask-eb82e22d8b8711bd.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Fencing Contractors Toowoomba Questions to Ask: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
